@@ -129,12 +129,12 @@ footer a {
   font-size: 20px;
   font-family: monospace;
   font-weight: bold;
-  color: red;
+  color: orange;
   cursor: default;
   width: 50px;
   height: 30px;
   border-radius: 10px;
-  border: solid thin rgb(117, 0, 0);
+  border: solid thick rgb(117, 0, 0);
   background-color: #300;
 }
 
